@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VredeburgMarker" size="160.000000 102.043343" />
+    <ImageTarget name="RatuBokoMarker" size="160.000000 102.012741" />
+    <ImageTarget name="PrambananMarker" size="160.000000 102.057045" />
+    <ImageTarget name="MonjaliMarker" size="160.000000 102.062111" />
+    <ImageTarget name="MerapiMarker" size="160.000000 102.101952" />
+    <ImageTarget name="KratonMarker" size="160.000000 102.058044" />
+    <ImageTarget name="BorobudurMarker" size="160.000000 102.036224" />
+  </Tracking>
+</QCARConfig>
